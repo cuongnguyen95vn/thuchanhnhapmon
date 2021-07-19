@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "baitapnhapmon", "baitapnhapmon\baitapnhapmon.vcxproj", "{F4DAC2C8-0545-4A94-B23D-41577E2F537A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4DAC2C8-0545-4A94-B23D-41577E2F537A}.Debug|x64.ActiveCfg = Debug|x64
+		{F4DAC2C8-0545-4A94-B23D-41577E2F537A}.Debug|x64.Build.0 = Debug|x64
+		{F4DAC2C8-0545-4A94-B23D-41577E2F537A}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4DAC2C8-0545-4A94-B23D-41577E2F537A}.Debug|x86.Build.0 = Debug|Win32
+		{F4DAC2C8-0545-4A94-B23D-41577E2F537A}.Release|x64.ActiveCfg = Release|x64
+		{F4DAC2C8-0545-4A94-B23D-41577E2F537A}.Release|x64.Build.0 = Release|x64
+		{F4DAC2C8-0545-4A94-B23D-41577E2F537A}.Release|x86.ActiveCfg = Release|Win32
+		{F4DAC2C8-0545-4A94-B23D-41577E2F537A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA676E41-66E2-4F17-BC76-F17DDDC846FC}
+	EndGlobalSection
+EndGlobal
