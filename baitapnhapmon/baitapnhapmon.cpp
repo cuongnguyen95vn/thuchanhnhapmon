@@ -6,7 +6,7 @@
 using namespace std;
 
 
-void nhapmang(int*& b, int& n)
+void nhapmang(int*& b, int& n)//"nhập mảng b"
 {
 	cin >> n;
 	b = new int[n];
